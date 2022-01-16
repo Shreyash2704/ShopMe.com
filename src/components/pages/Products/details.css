@@ -1,0 +1,15 @@
+.content-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.content-parent-details{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+}
+.details-btn{
+    width: 20vw;
+}
