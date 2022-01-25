@@ -1,0 +1,5 @@
+.modal_element{
+    display: flex;
+    justify-content: right;
+    position: relative;
+}
